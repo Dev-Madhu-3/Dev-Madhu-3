@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Madhu Uppala  
+# 👋 Hey, I'm Madhu
 
 🚀 **Full Stack Web Developer** | 📍 India | 💻 **MERN Stack Enthusiast**  
-*I build responsive, optimized, and user-friendly web applications.*  
+*I build responsive, optimised, and user-friendly web applications.*  
 
 ---
 
@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Next.js** & **Advanced Java** (yes, the backend world is exciting!)  
 - 📊 Part-time **trader** — always curious about markets, tech, and trends  
 - 💡 Passionate about building **real-world projects** that solve problems  
-- 🌏 Open to **remote opportunities** (Australia, Dubai, Global)  
+- 🌏 Open to **remote opportunities** (Australia, Dubai, or Global)  
 
 ---
 
@@ -51,9 +51,9 @@
 ---
 
 ## 📬 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/madhu-uppala)  
-- 🌐 [Portfolio](#) *(Coming Soon)*  
-- 📧 **madhuuppala@example.com** *(Replace with your real email)*  
+- 💼 [LinkedIn](www.linkedin.com/in/madhu-uppala)  
+- 🌐 [Portfolio](https://mrmadhu.vercel.app/)  
+- 📧 **mr.madhu.uppala@gmail.com**
 
 ---
 
